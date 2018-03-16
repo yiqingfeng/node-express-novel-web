@@ -32,6 +32,11 @@
                         icon: 'tickets',
                         path: '/articles',
                     },
+                    {
+                        title: '添加',
+                        icon: 'plus',
+                        path: '/add',
+                    },
                 ],
             };
         },
