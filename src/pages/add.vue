@@ -121,6 +121,7 @@ export default {
                                 title: '添加成功',
                                 type: 'success',
                             });
+                            this.$refs.book.resetFields();
                         } else {
                             this.$notify.error({
                                 title: '添加错误',

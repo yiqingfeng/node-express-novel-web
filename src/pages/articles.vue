@@ -39,8 +39,7 @@
             </el-table-column>
             <el-table-column
                 prop="remark"
-                label="备注"
-                sortable>
+                label="备注">
             </el-table-column>
         </el-table>
     </div>
